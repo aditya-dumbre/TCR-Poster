@@ -121,7 +121,7 @@ z-index:-1;
 /* HERO TEXT */
 
 .name{
-font-size:34px;
+font-size:26px; /* reduced from 34px */
 font-weight:700;
 letter-spacing:1px;
 }
