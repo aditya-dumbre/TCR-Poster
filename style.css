@@ -58,7 +58,6 @@ flex-direction:column;
 justify-content:center;
 align-items:center;
 text-align:center;
-padding-top: 50%;
 scroll-snap-align:start;
 position:relative;
 z-index:1;
@@ -71,6 +70,7 @@ z-index:1;
 .hero{
 position:relative;
 overflow:hidden;
+margin-top: 50%;
 }
 
 
