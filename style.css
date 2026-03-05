@@ -18,7 +18,9 @@ overflow:hidden;
 -webkit-font-smoothing:antialiased;
 }
 
-
+h1{
+font-size:32px;
+}
 
 /* AI BACKGROUND */
 
